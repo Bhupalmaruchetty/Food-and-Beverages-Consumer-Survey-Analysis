@@ -13,6 +13,7 @@ The goal of this project was to analyze survey responses to uncover
 **3.Consumer Perceptions:** measuring customer satisfaction, opinions on quality, pricing, and brand reputation. 
 
 💾 𝐃𝐚𝐭𝐚 𝐓𝐚𝐛𝐥𝐞𝐬:
+
    For this analysis, I worked with three key tables:
 
 1️⃣ 𝐅𝐚𝐜𝐭_𝐒𝐮𝐫𝐯𝐞𝐲_𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞𝐬:
