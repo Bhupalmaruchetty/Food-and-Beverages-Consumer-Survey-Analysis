@@ -1,4 +1,4 @@
-**🧃# Food and Beverages Consumer Survey Analysis:**🥤
+ # Food and Beverages Consumer Survey Analysis🥤
 
 This project analyzes consumer behavior and preferences within the food and beverages sector. By collecting survey data from a diverse audience, it provides insights into consumption patterns, favorite brands, buying habits, dietary preferences, and factors influencing purchasing decisions. The analysis includes visualizations that help businesses understand customer preferences and identify market trends.
 
